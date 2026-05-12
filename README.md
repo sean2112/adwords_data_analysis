@@ -139,7 +139,7 @@ adwords_analysis
 
 ### 广告投放结构分析
 
-![Adwords分析看板](images/adwords_dashboard.png)
+![Adwords分析看板](项目文件/images/adwords_dashboard.png)
 
 - 广告核心指标整体表现稳定（总流量、总成本、平均CPC、平均排名）
 - 流量呈阶段性波动，上升趋势明显
